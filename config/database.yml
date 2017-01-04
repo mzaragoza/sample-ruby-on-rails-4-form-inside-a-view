@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: sample_ruby_on_rails_4_form_inside_a_view_dev
+  pool: 5
+  username: moiseszaragoza
+  password:
+
